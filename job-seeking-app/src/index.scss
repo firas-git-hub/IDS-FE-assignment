@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: "JostRegular";
+  src: local("JostRegular"),
+    url("./assets/fonts/Jost-Regular.ttf");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "JostThin";
+  src: local("JostThin"),
+    url("./assets/fonts/Jost-Thin.ttf");
+  font-weight: normal;
+}

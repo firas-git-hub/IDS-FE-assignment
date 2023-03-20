@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 html,
@@ -28,4 +29,26 @@ App-header {
 
 .App-link {
   color: #61dafb;
+}
+
+.button--color-deep-blue {
+  color: white !important;
+  background-color: #1966d3 !important;
+}
+
+.button--color-light-blue {
+  color: #4173aa !important;
+  background-color: #e6eefc !important;
+}
+
+.img-container {
+  width: 100%;
+  height: 100%;
+  display: contents;
+
+  img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+  }
 }
