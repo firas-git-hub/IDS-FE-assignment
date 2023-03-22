@@ -1,0 +1,47 @@
+[
+    {
+        "category": "accountingFinance",
+        "nbOfOpenings": 1,
+        "imgName": "money"
+    },
+    {
+        "category": "marketing",
+        "nbOfOpenings": 5,
+        "imgName": "megaphone"
+    },
+    {
+        "category": "design",
+        "nbOfOpenings": 7,
+        "imgName": "design"
+    },
+    {
+        "category": "development",
+        "nbOfOpenings": 6,
+        "imgName": "web-programming"
+    },
+    {
+        "category": "humanResources",
+        "nbOfOpenings": 0,
+        "imgName": "reasearch"
+    },
+    {
+        "category": "projectManagement",
+        "nbOfOpenings": 1,
+        "imgName": "project-management"
+    },
+    {
+        "category": "customerService",
+        "nbOfOpenings": 4,
+        "imgName": "support"
+    },
+    {
+        "category": "healthAndCare",
+        "nbOfOpenings": 3,
+        "imgName": "health-care"
+    },
+    {
+        "category": "automotiveJobs",
+        "nbOfOpenings": 1,
+        "imgName": "car"
+    }
+]

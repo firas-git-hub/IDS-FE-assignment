@@ -3,5 +3,12 @@
     "languageButtonText": "ع",
     "LoginRegisterButtonText": "دخول / تسجيل",
     "en": "en",
-    "ar": "ع"
+    "ar": "ع",
+    "homePageMainContainerHeaderPartOne": "هناك ",
+    "homePageMainContainerHeaderPartTwo": "التعيينات لك! ",
+    "beneathHeaderText": "البحث عن الوظائف والتوظيف وفرص العمل",
+    "beneathSearchBarText": "عمليات البحث الشعبية: ",
+    "searchBarInputPlaceholder": "اسم الوظيفة، الكلمات الرئيسية ...",
+    "searchBarCityPostcodePlaceholder": "المدينة أو الرمز البريدي",
+    "searchBarFindButtonText": "العثور على وظائف"
 }

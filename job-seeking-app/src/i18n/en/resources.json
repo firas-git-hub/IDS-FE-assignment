@@ -3,5 +3,12 @@
     "languageButtonText": "en",
     "LoginRegisterButtonText": "Login / register",
     "en": "en",
-    "ar": "ع"
+    "ar": "ع",
+    "homePageMainContainerHeaderPartOne": "There Are ",
+    "homePageMainContainerHeaderPartTwo": " Postings For You!",
+    "beneathHeaderText": "find jobs, Employment and career opportunities",
+    "beneathSearchBarText": "Popular Searches: ",
+    "searchBarInputPlaceholder": "Job title, keywords...",
+    "searchBarCityPostcodePlaceholder": "City or Postcode",
+    "searchBarFindButtonText": "Find Jobs"
 }

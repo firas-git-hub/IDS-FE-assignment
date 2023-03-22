@@ -8,7 +8,7 @@ function MainTheme(): Theme {
                 main: "#1966d3",
             },
             secondary: {
-                main: "#000000",
+                main: "#9a9ca0",
             },
         },
         typography: {
@@ -27,7 +27,7 @@ function MainTheme(): Theme {
                     }
                 },
                 
-            }
+            },
         }
     });
 }
