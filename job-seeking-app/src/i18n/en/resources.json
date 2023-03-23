@@ -10,5 +10,18 @@
     "beneathSearchBarText": "Popular Searches: ",
     "searchBarInputPlaceholder": "Job title, keywords...",
     "searchBarCityPostcodePlaceholder": "City or Postcode",
-    "searchBarFindButtonText": "Find Jobs"
+    "searchBarFindButtonText": "Find Jobs",
+    "popularJobCategoriesHeaderText": "Popular Job Categories",
+    "popularJobCategoriesSubHeaderTextPartOne": "2020 jobs live -- ",
+    "popularJobCategoriesSubHeaderTextPartTwo": " added today.",
+    "accountingFinance": "Accounting / Finance",
+    "marketing": "Marketing",
+    "design": "Design",
+    "development": "Development",
+    "humanResources": "Human Resources",
+    "projectManagement": "Project Management",
+    "customerService": "Customer Service",
+    "healthAndCare": "Health and Care",
+    "automotiveJobs": "Automotive Jobs",
+    "jobCategoryCardOpenPositionsText": " open positions)"
 }

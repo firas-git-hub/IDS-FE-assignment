@@ -1,0 +1,20 @@
+.popular-job-categories-page {
+    justify-content: space-between;
+    align-items: center;
+    row-gap: 3rem;
+    background-color: white;
+
+    .header {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        row-gap: 1rem;
+    }
+
+    .cards-container {
+        flex-wrap: wrap;
+        gap: 2rem;
+        padding-inline: 15%;
+        padding-block: 3rem;
+    }
+}

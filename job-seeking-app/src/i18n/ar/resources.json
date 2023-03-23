@@ -10,5 +10,18 @@
     "beneathSearchBarText": "عمليات البحث الشعبية: ",
     "searchBarInputPlaceholder": "اسم الوظيفة، الكلمات الرئيسية ...",
     "searchBarCityPostcodePlaceholder": "المدينة أو الرمز البريدي",
-    "searchBarFindButtonText": "العثور على وظائف"
+    "searchBarFindButtonText": "العثور على وظائف",
+    "popularJobCategoriesHeaderText": "فئات الوظائف الشعبية",
+    "popularJobCategoriesSubHeaderTextPartOne": "2020 وظائف مباشرة --",
+    "popularJobCategoriesSubHeaderTextPartTwo": " أضيف اليوم.",
+    "accountingFinance": "المحاسبة والمالية",
+    "marketing": "تسويق",
+    "design": "تصميم",
+    "development": "تطوير",
+    "humanResources": "الموارد البشرية",
+    "projectManagement": "إدارة مشاريع",
+    "customerService": "خدمة الزبائن",
+    "healthAndCare": "الصحة والعناية",
+    "automotiveJobs": "الوظائف المتعلقة بالسيارات",
+    "jobCategoryCardOpenPositionsText": " مناصب المفتوحة)"
 }

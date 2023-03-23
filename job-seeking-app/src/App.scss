@@ -16,10 +16,11 @@ body,
 }
 
 .App {
-	height: max-content;
+	height: auto;
 	text-align: center;
 	background-color: #f1f4fc;
 	width: 100dvw;
+	max-width: 100%;
 	display: flex;
 	flex-direction: column;
 }
@@ -41,6 +42,7 @@ App-header {
 
 .screen {
 	height: 100dvh;
+	min-height: 100%;
 	max-width: 100dvw;
 	display: flex;
 	flex-direction: column;
@@ -88,7 +90,7 @@ App-header {
 	color: #9a9ca0;
 }
 
-.font-weight--bold {
+.bold {
 	font-weight: bold;
 }
 
