@@ -11,7 +11,7 @@ export default function PopularJobCategoriesPage() {
     const [jobsAddedTodayCount, setJobsAddedTodayCount] = useState(293);
 
     return <div className="popular-job-categories-page flex--column">
-        <div className="header">
+        <div className="popular-job-categories-page__header">
             <h1>{t("popularJobCategoriesHeaderText")}</h1>
             <p className="text-color--light-gray">
                 {
@@ -23,8 +23,8 @@ export default function PopularJobCategoriesPage() {
         </div>
         <div className="cards-container flex--row">
             {
-                jobCategories.map((category: any) => {
-                    return <JobCategoryCard key={category.category} nbOfOpenings={category.nbOfOpenings} category={category.category} imgName={category.imgName}></JobCategoryCard>
+                jobCategories.map((category: any, index) => {
+                    return <JobCategoryCard key={index} nbOfOpenings={category.nbOfOpenings} category={category.category} imgName={category.imgName}></JobCategoryCard>
                 })
             }
         </div>

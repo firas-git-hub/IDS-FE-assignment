@@ -23,5 +23,15 @@
     "customerService": "خدمة الزبائن",
     "healthAndCare": "الصحة والعناية",
     "automotiveJobs": "الوظائف المتعلقة بالسيارات",
-    "jobCategoryCardOpenPositionsText": " مناصب المفتوحة)"
+    "jobCategoryCardOpenPositionsText": " مناصب المفتوحة)",
+    "loadMoreJobPostsButtontext": "تحميل المزيد من القوائم",
+    "featured": "متميز",
+    "slashWithSpaces": " / ",
+    "month": "شهر",
+    "week": "أسبوع",
+    "day": "يوم",
+    "urgent": "عاجل",
+    "fullTime": "دوام كامل",
+    "partTime": "دوام جزئى",
+    "internship": "تدريب"
 }

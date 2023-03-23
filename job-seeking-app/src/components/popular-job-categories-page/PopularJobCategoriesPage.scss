@@ -4,11 +4,12 @@
     row-gap: 3rem;
     background-color: white;
 
-    .header {
+    .popular-job-categories-page__header {
         display: flex;
         flex-direction: column;
         justify-content: center;
         row-gap: 1rem;
+        padding-top: 3rem;
     }
 
     .cards-container {

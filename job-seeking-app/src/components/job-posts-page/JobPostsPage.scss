@@ -1,0 +1,25 @@
+.job-posts-page {
+    justify-content: space-between;
+    align-items: center;
+    row-gap: 3rem;
+    background-color: white;
+
+    .job-posts-page__job-posts-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        row-gap: 1rem;
+        padding-top: 3rem;
+    }
+
+    .cards-container {
+        flex-wrap: wrap;
+        gap: 2rem;
+        padding-inline: 15%;
+        padding-block: 3rem;
+    }
+
+    .load-more-jobs-button {
+        padding-inline: 2rem;
+    }
+}

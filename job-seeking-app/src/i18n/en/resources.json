@@ -23,5 +23,15 @@
     "customerService": "Customer Service",
     "healthAndCare": "Health and Care",
     "automotiveJobs": "Automotive Jobs",
-    "jobCategoryCardOpenPositionsText": " open positions)"
+    "jobCategoryCardOpenPositionsText": " open positions)",
+    "loadMoreJobPostsButtontext": "Load more Listing",
+    "featured": "Featured",
+    "slashWithSpaces": " / ",
+    "month": "month",
+    "week": "week",
+    "day": "day",
+    "urgent": "Urgent",
+    "fullTime": "Full Time",
+    "partTime": "Part Time",
+    "internship": "Internship"
 }

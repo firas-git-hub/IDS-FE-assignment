@@ -8,11 +8,11 @@ export default function JobCategoryCard(props: JobCategoryCardInterface) {
     const { t } = useTranslation();
 
     return <>
-        <div className="card flex--row">
-            <div className="card__img img-container">
+        <div className="job-category-card flex--row">
+            <div className="job-category-card__img img-container">
                 <img src={`/icons/${props.imgName}.png`} />
             </div>
-            <div className="card__content flex--column">
+            <div className="job-category-card__content flex--column">
                 <h4 className="header">{t(props.category)}</h4>
                 <p className="info text-color--light-gray">{"(" + props.nbOfOpenings + t("jobCategoryCardOpenPositionsText")}</p>
             </div>

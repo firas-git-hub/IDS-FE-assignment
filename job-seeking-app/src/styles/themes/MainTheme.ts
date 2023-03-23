@@ -9,7 +9,7 @@ function MainTheme(): Theme {
             },
             secondary: {
                 main: "#9a9ca0",
-            },
+            }
         },
         typography: {
             fontFamily: [
@@ -26,8 +26,18 @@ function MainTheme(): Theme {
                         textTransform: 'none'
                     }
                 },
-                
+
             },
+            MuiChip: {
+                styleOverrides: {
+                    root: {
+                        height: "1.5rem"
+                    },
+                    label: {
+                        paddingBlock: "1.0625rem"
+                    }
+                }
+            }
         }
     });
 }

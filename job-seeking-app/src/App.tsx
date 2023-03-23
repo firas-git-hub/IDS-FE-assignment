@@ -4,6 +4,7 @@ import IconButton from '@mui/material/IconButton';
 import { useEffect, useState } from 'react';
 import './App.scss';
 import HomePage from './components/home-page/HomePage';
+import JobPostsPage from './components/job-posts-page/JobPostsPage';
 import NavBar from './components/nav-bar/NavBar';
 import PopularJobCategoriesPage from './components/popular-job-categories-page/PopularJobCategoriesPage';
 import MainTheme from './styles/themes/MainTheme';
@@ -32,8 +33,11 @@ function App() {
 					<NavBar></NavBar>
 					<HomePage></HomePage>
 				</div>
-				<div className="screen">
+				<div className="screen height-unlocked">
 					<PopularJobCategoriesPage></PopularJobCategoriesPage>
+				</div>
+				<div className="screen height-unlocked">
+					<JobPostsPage></JobPostsPage>
 				</div>
 			</ThemeProvider>
 			<IconButton
