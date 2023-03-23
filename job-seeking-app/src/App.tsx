@@ -3,6 +3,7 @@ import { KeyboardArrowUpRounded } from '@mui/icons-material';
 import IconButton from '@mui/material/IconButton';
 import { useEffect, useState } from 'react';
 import './App.scss';
+import AdvertPage from './components/advert-page/AdvertPage';
 import HomePage from './components/home-page/HomePage';
 import JobPostsPage from './components/job-posts-page/JobPostsPage';
 import NavBar from './components/nav-bar/NavBar';
@@ -38,6 +39,9 @@ function App() {
 				</div>
 				<div className="screen height-unlocked">
 					<JobPostsPage></JobPostsPage>
+				</div>
+				<div className="screen">
+					<AdvertPage></AdvertPage>
 				</div>
 			</ThemeProvider>
 			<IconButton
