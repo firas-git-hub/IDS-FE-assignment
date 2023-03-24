@@ -6,6 +6,7 @@ import './App.scss';
 import AdvertPage from './components/advert-page/AdvertPage';
 import HomePage from './components/home-page/HomePage';
 import JobPostsPage from './components/job-posts-page/JobPostsPage';
+import LoginRegisterForm from './components/login-register-form/LoginRegisterForm';
 import NavBar from './components/nav-bar/NavBar';
 import PopularJobCategoriesPage from './components/popular-job-categories-page/PopularJobCategoriesPage';
 import MainTheme from './styles/themes/MainTheme';

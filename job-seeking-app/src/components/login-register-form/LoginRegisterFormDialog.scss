@@ -1,0 +1,14 @@
+.login-register-form-dialog {
+
+    .dialog-title {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        padding-inline: 2.5rem;
+        padding-top: 1rem;
+    }
+
+    .MuiPaper-root {
+        width: 100%;
+    }
+}

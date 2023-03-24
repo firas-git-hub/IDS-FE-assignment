@@ -34,5 +34,18 @@
     "fullTime": "دوام كامل",
     "partTime": "دوام جزئى",
     "internship": "تدريب",
-    "advertCopyrightText": "© 2022 IDS. All Right Reserved."
+    "advertCopyrightText": "© 2022 IDS. All Right Reserved.",
+    "email": "بريد إلكتروني",
+    "password": "كلمة المرور",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "jobTitle": "عنوان الوظيفة",
+    "login": "تسجيل الدخول",
+    "registerNow": "تسجل الآن",
+    "register": "تسجل",
+    "textBeneathLoginRegisterFormLoginCase": "ليس لديك حساب؟ ",
+    "textBeneathLoginRegisterFormRegisterCase": "هل لديك حساب؟ ",
+    "forgottenPassword": "نسيت كلمة السر؟",
+    "keepMeSignedIn": "أبقني مسجلا",
+    "candidate": "مُرَشَّح",
+    "employer": "صاحب العمل"
 }

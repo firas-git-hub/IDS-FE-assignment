@@ -93,4 +93,35 @@
             top: 47%;
         }
     }
+
+    @media (max-width:1240px) {
+        .home-page__images-container {
+            display: none;
+        }
+    }
+
+    @media (max-width:640px) {
+        .home-page__search-bar-container {
+            justify-content: center;
+            align-items: center;
+
+            h1 {
+                text-align: center;
+            }
+        }
+
+        .search-bar {
+            display: flex;
+            flex-direction: column;
+            height: unset !important;
+            justify-content: space-between;
+            row-gap: 2rem;
+
+            hr {
+                width: 100%;
+                height: 0.0625rem;
+                border-bottom: 1px solid;
+            }
+        }
+    }
 }

@@ -34,5 +34,18 @@
     "fullTime": "Full Time",
     "partTime": "Part Time",
     "internship": "Internship",
-    "advertCopyrightText": "© 2022 IDS. All Right Reserved."
+    "advertCopyrightText": "© 2022 IDS. All Right Reserved.",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "jobTitle": "Job Title",
+    "login": "Login",
+    "registerNow": "Register Now",
+    "register": "Register",
+    "textBeneathLoginRegisterFormLoginCase": "Don't you have an account? ",
+    "textBeneathLoginRegisterFormRegisterCase": "Already have an account? ",
+    "forgottenPassword": "Forgot password?",
+    "keepMeSignedIn": "Keep me signed in",
+    "candidate": "Candidate",
+    "employer": "Employer"
 }

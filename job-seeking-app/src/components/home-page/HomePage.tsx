@@ -97,7 +97,7 @@ export default function HomePage() {
                     <span>{popularSearches.join(", ")}</span>
                 </p>
             </div>
-            <div className="home-page__images-container">
+            <div className="home-page__images-container remove-me">
                 <img src={personPng} />
                 <img className="agency-img" src={agencyPng} />
                 <img className="work-img" src={workPng} />
