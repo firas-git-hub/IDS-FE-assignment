@@ -1,7 +1,6 @@
 import "./JobCategoryCard.scss";
 import { useTranslation } from "react-i18next";
 import JobCategoryCardInterface from "../../interfaces/JobCategoryCardInterface";
-import JobCategoryCardInterace from "../../../public/icons/money.png";
 
 export default function JobCategoryCard(props: JobCategoryCardInterface) {
 
